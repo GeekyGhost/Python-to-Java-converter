@@ -1,7 +1,7 @@
 Python to Java Converter (A Thought Experiment Work in Progress)
 ===============================================================
 
-This Python script provides a simple way to convert Python code to Java code. It's a thought experiment and should be treated as a work in progress. The converter is not perfect and has several limitations. It is intended for educational purposes and to showcase the possibilities of converting code between programming languages.
+This Python script provides a simple way to convert Python code to Java code. It's a thought experiment and should be treated as a work in progress. The converter is not perfect and has several limitations. It is intended for educational purposes and to showcase the possibilities of converting code between programming languages. This again was just done for fun lol. I knew full well the output would be gibberish. This is juust fun for me. 
 
 Intent of the Script
 --------------------
