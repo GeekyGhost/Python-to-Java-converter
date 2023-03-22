@@ -33,4 +33,4 @@ Thought Experiment Work in Progress
 
 This script is a thought experiment and a work in progress. It should not be relied upon for production code conversions or mission-critical projects. It is intended to provide a starting point for developers and to showcase the possibilities of converting code between programming languages.
 
-Please use the script with caution and understand that it may not accurately convert all Python code to Java.
+Please use the script with caution and understand that it may not accurately convert all Python code to Java. ChatGPT wrote most of this readme. I like the formatting of it. 
